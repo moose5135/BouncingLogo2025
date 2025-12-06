@@ -77,7 +77,7 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
   - **Katrina Huburt** - *Provided README Template* -
     [moose5135](https://github.com/moose5135)
   - **Tobias (Toby) Helouin** - *Created README* -
-    [static-Stars](https://github.com/PurpleBooth)
+    [static-Stars](https://github.com/static-Stars)
 
 See also the list of
 [contributors](https://github.com/moose5135/BouncingLogo2025/graphs/contributors)
