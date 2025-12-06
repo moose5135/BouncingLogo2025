@@ -52,18 +52,20 @@ Add additional notes to deploy this on a live system
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Ethan Kahler** - ** -
     [EKatHood](https://github.com/EKatHood)
-  - **Lucas Castello** - *Provided README Template* -
+  - **Lucas Castelhano** - ** -
     [Luke-Myth](https://github.com/Luke-Myth)
-  - **Katrina Huburt** - *Provided README Template* -
+  - **Katrina Herbert** - ** -
     [moose5135](https://github.com/moose5135)
   - **Tobias (Toby) Helouin** - *Created README* -
     [static-Stars](https://github.com/static-Stars)
 
-See also the list of
-[contributors](https://github.com/moose5135/BouncingLogo2025/graphs/contributors)
-who participated in this project.
+See also the list of [contributors](https://github.com/moose5135/BouncingLogo2025/graphs/contributors) who participated in this project.
+
+## License
+
+All files are licensed under the permissive [Unlicense (Public Domain)](LICENSE.md).
 
 ## Acknowledgments
 
