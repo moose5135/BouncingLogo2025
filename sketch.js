@@ -9,6 +9,7 @@ let names = [
   "images/prof_pink.jpg"
 ];
 
+let backColor = 0;
 let cHeight = window.innerHeight;
 let cWidth = window.innerWidth;
 let x, y;
@@ -54,7 +55,7 @@ function setup() {
 }
 
 function draw() {
-  background(0); //10k makes it white needs implementation
+  background(backColor); //10k makes it white needs implementation
   
   // Only update position if not paused
   if (!paused) {
@@ -111,5 +112,14 @@ function keyPressed() {
   if (key === ' ') {
     flipSwitch();
     return false; // Prevent default behavior
+  }
+
+  if (key === 'c'){
+    if(backColor === 0){
+      backColor = 10000
+    } 
+    else{
+      backColor = 0
+    }
   }
 }
