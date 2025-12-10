@@ -5,25 +5,41 @@
 Our project creates the opportunity for bored individuals to play around with a fun, nostalgic program. This addresses the issue of people wanting something to help pass the time. It can also be used as a screen saver.
 
 
-### Installing
+## Key features
+
+- Ablity to change image
+- Ablity to change speed
+- Ablity to change background color
+    - Currently only able to change to black and white
+    - *work in progress*
 
 
-A step by step series of examples that tell you how to get a development
-environment running
+## Requirements
 
-Say what the step will be
+To run this software, the user needs a browser that can runs multiple javascript files at once, use the [web-hosted verison](https://rick-ochet.w3spaces.com/index.html), or through the [p5 javaScript editor](https://editor.p5js.org/).
 
-    Give the example
 
-And repeat
+## Installing
 
-    until finished
+*Installing is not nessicary for the web-hosted verison.*
 
-End with an example of getting some data out of the system or using it
-for a little demo
+Download BouncingLogo for p5 editor:
+   - Click **Code** → **Download ZIP**, or download directly via this [link](https://github.com/moose5135/BouncingLogo2025/archive/refs/heads/main.zip).  
+   - Extract the downloaded ZIP file to your desired location.
+   - Open the p5 editor and sign-in.
+   - Press the arrow to open the Sketch Files menu.
+   - Delete all but one of the files.
+       - The website forces you to have at least on of the files.
+       - The authors recomend leaving either the index.html file or the style.css file.
+   - Upload the files from the extracted folder.
+   - Delete the file that is left from the original set up.
+       - Either index.html or style.css.
+   - Ensure that the sketch.js file is named "sketch.js" and not "sketch-1.js".
+       - The program will not run if the file is named "sketch-1.js".
+   - Create a folder using the plus sign and name it "images".
+   - Upload the deafault images to the folder.
+   - Press the big pink play button.
 
-Alternative route: [Link to web-hosted verison](https://rick-ochet.w3spaces.com/index.html)
-    
 
 ## Authors
 
@@ -45,6 +61,8 @@ All files are licensed under the permissive [Unlicense (Public Domain)](LICENSE.
 ## Acknowledgments
 
   - [Inspiration/Example of what the code will do](https://www.youtube.com/watch?v=5mGuCdlCcNM)
+  - [Helpful Tutorial 1](https://www.youtube.com/watch?v=0j86zuqqTlQ)
+  - [Helpful Tutorial 2](https://www.youtube.com/watch?v=vfMazgvHm2M)
   - [StackOverFlow](https://stackoverflow.com/questions/22087076/how-to-make-a-simple-image-upload-using-javascript-html) - *Code used for uploading custom image*
   - [StackOverFlow](https://stackoverflow.com/questions/1664785/resize-html5-canvas-to-fit-window) - *Used to better scale the window and the imput image*
   - [Vecteezy](https://www.vecteezy.com/) - *Play Button Image*
