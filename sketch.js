@@ -9,14 +9,14 @@ let names = [
   "images/prof_pink.jpg"
 ];
 
-let backColor = 0;
-let cHeight = window.innerHeight;
+let backColor = 0; //adjusts background color
+let cHeight = window.innerHeight; 
 let cWidth = window.innerWidth;
 let x, y;
-let h = cHeight*.16, w = h; 
+let h = cHeight*.16, w = h; //makes image a square evry time
 let xspeed, yspeed;
 let colorImage;
-let paused = false;
+let paused = false; //sets up pause function
 let uploadedImg = null; // Changed from timg to uploadedImg
 let useUploaded = false; // Track whether to use uploaded image
 
@@ -38,12 +38,12 @@ window.addEventListener('load', function() {
 });
 
 function preload() {
-  for (let i = 0; i < names.length; i++) {
+  for (let i = 0; i < names.length; i++) { //loads images onto canvas
     img[i] = loadImage(names[i]);
   }
 }
 
-function setup() {
+function setup() { //spawns the image and generates the canvas
 
   createCanvas(cWidth, cHeight-60);
   
@@ -74,13 +74,12 @@ function draw() {
   }
 }
 
-// Rest of your functions remain the same...
 function flipSwitch() {
   paused = !paused; // Toggle pause state
   console.log("Paused:", paused);
 }
 
-function edgeHandling() {
+function edgeHandling() { //Causes image to bounce
   if (x + w >= width) {
     xspeed = xspeed * -1;
     x = width - w;
@@ -117,13 +116,13 @@ function keyPressed() {
     xspeed = abs(xspeed) / xspeed * speed;
     yspeed = abs(yspeed) / yspeed * speed;
   }
-  
   // Add spacebar to pause/unpause
+
   if (key === ' ') {
     flipSwitch();
     return false; // Prevent default behavior
   }
-  if (key === 'b'){
+  if (key === 'b'){ //determine background color
     backColor = 0;
     }
   if (key === 'w'){
