@@ -25,7 +25,7 @@ Download BouncingLogo for p5 editor:
    - Extract the downloaded ZIP file to your desired location.
 <img width="2559" height="1384" alt="image" src="https://github.com/user-attachments/assets/c8023c52-7872-4932-ab62-9bc46216b4f7" />
 
-   - Open the p5 editor and sign-in.
+   - Go to [p5js.org](https://p5js.org/) and click the [</> Start Coding](https://editor.p5js.org/) button in the lower left corner.
 <img width="2559" height="1383" alt="image" src="https://github.com/user-attachments/assets/61028599-4c52-429a-91e0-33abb83999f5" />
 
    - Press the arrow to open the Sketch Files menu.
