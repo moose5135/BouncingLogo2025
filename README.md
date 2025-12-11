@@ -52,7 +52,7 @@ Download BouncingLogo for p5 editor:
 <img width="2559" height="1381" alt="image" src="https://github.com/user-attachments/assets/8c7e3394-c434-41b4-bdaa-0546c6039f89" />
 <img width="2559" height="707" alt="Screenshot 2025-12-10 015136" src="https://github.com/user-attachments/assets/17c3f007-9cfd-45c6-9b41-899803348282" />
 
-   - Upload the default images to the folder.
+   - Upload the default images to the folder. All image named in the code must be uploaded into the folder, otherwise the project will not run.
 <img width="2559" height="1378" alt="image" src="https://github.com/user-attachments/assets/1a4bb9ee-cce7-43cf-a9ee-8dc1b9766d61" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/31fb2e95-45b8-4732-bfca-d1720da86add" />
 
@@ -67,9 +67,9 @@ Download BouncingLogo for p5 editor:
 
   - **Ethan Kahler** - *Testing and project goals consistency* -
     [EKatHood](https://github.com/EKatHood)
-  - **Lucas Castelhano** - *Second Programer* -
+  - **Lucas Castelhano** - *Second Programmer* -
     [Luke-Myth](https://github.com/Luke-Myth)
-  - **Katrina Herbert** - *Main Programer* -
+  - **Katrina Herbert** - *Main Programmer* -
     [moose5135](https://github.com/moose5135)
   - **Tobias (Toby) Helouin** - *Project Leader* -
     [static-Stars](https://github.com/static-Stars)
