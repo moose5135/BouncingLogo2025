@@ -7,9 +7,9 @@ Our project creates the opportunity for bored individuals to play around with a 
 
 ## Key features
 
-- Ablity to change image
-- Ablity to change speed
-- Ablity to change background color to a random color, and to black or white
+- Ability to change image
+- Ability to change speed
+- Ability to change background color to a random color, and to black or white
 
 ## Requirements
 
@@ -18,7 +18,7 @@ To run this software, the user needs a browser that can runs multiple javascript
 
 ## Installing
 
-*Installing is not necessary for the web-hosted verison.*
+*Installing is not necessary for the web-hosted version.*
 
 Download BouncingLogo for p5 editor:
    - Click **Code** → **Download ZIP**, or download directly via this [link](https://github.com/moose5135/BouncingLogo2025/archive/refs/heads/main.zip).  
@@ -44,7 +44,7 @@ Download BouncingLogo for p5 editor:
        - Either index.html or style.css.
 <img width="2548" height="1381" alt="image" src="https://github.com/user-attachments/assets/53b013f7-435b-4a27-9bc5-2b7d86b8ff1f" />
 
-   - Ensure that there is no file names [name]-1.js, as it needs to be [name].js. 
+   - Ensure that there is no file names [name]-1.[file], as it needs to be [name].[file]. 
        - For example, the program will not run if the "sketch.js" file is named "sketch-1.js".
 <img width="2559" height="1396" alt="image" src="https://github.com/user-attachments/assets/2f5bda3e-7c4d-4504-bcc6-37018b5d898a" />
 
@@ -52,7 +52,7 @@ Download BouncingLogo for p5 editor:
 <img width="2559" height="1381" alt="image" src="https://github.com/user-attachments/assets/8c7e3394-c434-41b4-bdaa-0546c6039f89" />
 <img width="2559" height="707" alt="Screenshot 2025-12-10 015136" src="https://github.com/user-attachments/assets/17c3f007-9cfd-45c6-9b41-899803348282" />
 
-   - Upload the default images to the folder. All image named in the code must be uploaded into the folder, otherwise the project will not run.
+   - Upload the default images to the folder. All images named in the code must be uploaded into the folder, otherwise the project will not run.
 <img width="2559" height="1378" alt="image" src="https://github.com/user-attachments/assets/1a4bb9ee-cce7-43cf-a9ee-8dc1b9766d61" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/31fb2e95-45b8-4732-bfca-d1720da86add" />
 
@@ -86,6 +86,6 @@ All files are licensed under the permissive [Unlicense (Public Domain)](LICENSE.
   - [Helpful Tutorial 1](https://www.youtube.com/watch?v=0j86zuqqTlQ)
   - [Helpful Tutorial 2](https://www.youtube.com/watch?v=vfMazgvHm2M)
   - [StackOverFlow](https://stackoverflow.com/questions/22087076/how-to-make-a-simple-image-upload-using-javascript-html) - *Code used for uploading custom image*
-  - [StackOverFlow](https://stackoverflow.com/questions/1664785/resize-html5-canvas-to-fit-window) - *Used to better scale the window and the imput image*
+  - [StackOverFlow](https://stackoverflow.com/questions/1664785/resize-html5-canvas-to-fit-window) - *Used to better scale the window and the input image*
   - [Vecteezy](https://www.vecteezy.com/) - *Play Button Image*
   - Billie Thompson - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
