@@ -9,7 +9,7 @@ Our project creates the opportunity for bored individuals to play around with a 
 
 - Ablity to change image
 - Ablity to change speed
-- Ablity to change background color to a random color
+- Ablity to change background color to a random color, and to black or white
 
 ## Requirements
 
