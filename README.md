@@ -9,10 +9,7 @@ Our project creates the opportunity for bored individuals to play around with a 
 
 - Ablity to change image
 - Ablity to change speed
-- Ablity to change background color
-    - Currently only able to change to black and white
-    - *work in progress*
-
+- Ablity to change background color to a random color
 
 ## Requirements
 
@@ -35,8 +32,8 @@ Download BouncingLogo for p5 editor:
 <img width="2559" height="1376" alt="image" src="https://github.com/user-attachments/assets/023f11db-9198-4a03-a1f2-d7b03f01669a" />
 
    - Delete all but one of the files.
-       - The website forces you to have at least on of the files.
-       - The authors recomend leaving either the index.html file or the style.css file.
+       - The website forces you to have at least one of the files.
+       - The authors recommend leaving either the index.html file or the style.css file.
 <img width="2559" height="1378" alt="image" src="https://github.com/user-attachments/assets/920b0139-5350-4ff0-a58e-158304c66c59" />
 
    - Upload the files from the extracted folder.
@@ -47,15 +44,15 @@ Download BouncingLogo for p5 editor:
        - Either index.html or style.css.
 <img width="2548" height="1381" alt="image" src="https://github.com/user-attachments/assets/53b013f7-435b-4a27-9bc5-2b7d86b8ff1f" />
 
-   - Ensure that the sketch.js file is named "sketch.js" and not "sketch-1.js".
-       - The program will not run if the file is named "sketch-1.js".
+   - Ensure that there is no file names [name]-1.js, as it needs to be [name].js. 
+       - For example, the program will not run if the "sketch.js" file is named "sketch-1.js".
 <img width="2559" height="1396" alt="image" src="https://github.com/user-attachments/assets/2f5bda3e-7c4d-4504-bcc6-37018b5d898a" />
 
    - Create a folder using the plus sign and name it "images".
 <img width="2559" height="1381" alt="image" src="https://github.com/user-attachments/assets/8c7e3394-c434-41b4-bdaa-0546c6039f89" />
 <img width="2559" height="707" alt="Screenshot 2025-12-10 015136" src="https://github.com/user-attachments/assets/17c3f007-9cfd-45c6-9b41-899803348282" />
 
-   - Upload the deafault images to the folder.
+   - Upload the default images to the folder.
 <img width="2559" height="1378" alt="image" src="https://github.com/user-attachments/assets/1a4bb9ee-cce7-43cf-a9ee-8dc1b9766d61" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/31fb2e95-45b8-4732-bfca-d1720da86add" />
 
