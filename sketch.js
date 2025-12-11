@@ -50,8 +50,8 @@ function setup() {
   colorImage = floor(random(0, names.length));
   x = random(width - w);
   y = random(height - h);
-  xspeed = 2;
-  yspeed = 2;
+  xspeed = 3;
+  yspeed = 3;
 }
 
 function draw() {
@@ -123,7 +123,12 @@ function keyPressed() {
     flipSwitch();
     return false; // Prevent default behavior
   }
-
+  if (key === 'b'){
+    backColor = 0;
+    }
+  if (key === 'w'){
+    backColor = 10000;
+    }
   if (key === 'c'){
     backColor = getRandomColor();
     }
