@@ -21,7 +21,7 @@ To run this software, the user needs a browser that can runs multiple javascript
 
 ## Installing
 
-*Installing is not nessicary for the web-hosted verison.*
+*Installing is not necessary for the web-hosted verison.*
 
 Download BouncingLogo for p5 editor:
    - Click **Code** → **Download ZIP**, or download directly via this [link](https://github.com/moose5135/BouncingLogo2025/archive/refs/heads/main.zip).  
